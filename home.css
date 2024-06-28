@@ -1,0 +1,12 @@
+*{
+    background-image: url(midia/fundo.jpg);
+    background-position: center;
+    text-align: center;
+    filter: grayscale(100%);
+
+}
+
+*:hover{  
+    filter: grayscale(0%);
+}
+
